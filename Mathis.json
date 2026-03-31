@@ -1,0 +1,10 @@
+{
+  "history": [
+    {
+      "Timestamp": "2026-03-31T15:37:27.2908036+05:30",
+      "User": "8R17B44\\k64121947",
+      "Title": "Important Release Notes",
+      "Note": "From this release(v3.5) - Tokens Encryption were implemented, So it is advised to cross verify v3.0 if any connection related issues faced in this v3.5"
+    }
+  ]
+}
