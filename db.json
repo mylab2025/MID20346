@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "MyLab Application v3.5",
+        "PN": "MYLAB2025_3V5",
+        "MF": "gk.pcb"
+      },
+      "MID": "MID20346",
+      "MD": "Developed by gk.pcb A Part of Mylab Applications, Current State: Production Release\r\n\r\n",
+      "MT": "Electronic Material",
+      "MQNT": 100,
+      "MCost": 0.00,
+      "MQATG": "#CLASS_0",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20346%2Fmain%2FNew%20Microsoft%20Word%20Document.pdf",
+      "MAF1": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20346%2Fmain%2FAPR2026_Updated%20-%20Copy.zip",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20346/main/WhatsApp Image 2025-03-28 at 2.08.02 PM.jpeg"
+      ]
+    }
+  ]
+}
